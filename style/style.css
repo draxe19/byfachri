@@ -360,7 +360,7 @@ nav ul li{
 }
 
 .contact-form input, .contact-form textarea{
-    width: 100%;
+    width: 90%;
     padding: 0.75rem 1.3rem;
     font-family: "Roboto", sans-serif;
     background: #fbfbfb;
@@ -379,7 +379,7 @@ nav ul li{
 }
 
 .btn-submit{
-    width: 100%;
+    width: 90%;
     padding: 0.75rem 1.3rem;
     background-color: #7e74f1;
     columns: #fff;
