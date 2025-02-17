@@ -100,15 +100,22 @@ nav ul{
     margin-bottom: 0.5rem;
 }
 
-    /* skills section */
-    .skills-grid{
-        gap: 1rem;
-    }
+/* skills section */
+.skills-grid{
+gap: 1rem;
+}
 
-    /* footer section */
-    footer{
-        padding: 2rem 0;
-    }
+/* footer section */
+footer{
+padding: 2rem 0;
+}
+
+.contact-form input, .contact-form textarea{
+    width: 90%;
+}
+.btn.submit{
+    width: 90%;
+}
 
 }
 @media screen and (max-width: 640px) {
