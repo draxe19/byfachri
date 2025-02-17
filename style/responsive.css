@@ -13,6 +13,10 @@ p{
     font-size: 0.9rem;
 }
 
+.btn-submit{
+    width: 90%;
+}
+
 @media screen and (max-width: 825px) {
     /* burger */
 .burger{
@@ -111,9 +115,6 @@ padding: 2rem 0;
 }
 
 .contact-form input, .contact-form textarea{
-    width: 90%;
-}
-.btn-submit{
     width: 90%;
 }
 
